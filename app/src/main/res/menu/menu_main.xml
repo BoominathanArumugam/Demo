@@ -1,0 +1,43 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="com.boominathan.task.MainActivity">
+
+
+    <item
+            android:id="@+id/more_action_bars"
+            android:icon="@drawable/ic_shopping_cart_black_24dp"
+            android:title=""
+            app:showAsAction="always">
+
+        <menu>
+            <item
+                    android:id="@+id/flipkart"
+                    android:icon="@drawable/flipkar"
+                    android:title="Flipkart"
+                    android:orderInCategory="100"
+
+            />
+            <item
+                    android:id="@+id/amazon"
+                    android:icon="@drawable/amazon"
+                    android:title="Amazon"
+                    android:orderInCategory="100"
+
+            />
+            <item
+                    android:id="@+id/shopclues"
+                    android:icon="@drawable/shopclues"
+                    android:title="ShopClues"
+                    android:orderInCategory="100"
+
+            />
+
+
+        </menu>
+
+
+    </item>
+
+
+</menu>

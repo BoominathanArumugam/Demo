@@ -1,0 +1,242 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\senthil\Downloads\Task-20190824T052426Z-001\Task\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\senthil\Downloads\Task-20190824T052426Z-001\Task\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\senthil\Downloads\Task-20190824T052426Z-001\Task\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\senthil\Downloads\Task-20190824T052426Z-001\Task\app\src\main\AndroidManifest.xml:2:1-29:12
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\75553f808efaa9577d78f8fe8514d619\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\1a9d87caedefc9f496a232ef3c8bd597\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\897b03f3f40db6168aa3497c6fba9b95\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\faf9774278b29ba5285945cc8f3ecd0f\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\57895d8c28cb66136f02c3b25636a4c5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.room:room-ktx:2.2.0-alpha02] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\68e998d7453127f899894a1d69c22893\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-rxjava2:2.2.0-alpha02] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\a34920e58e041ac6ce59f4f48a619723\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-guava:2.2.0-alpha02] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\e664f3484fa06742404372b7647f0a0b\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-runtime:2.2.0-alpha02] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\b23021b52649d6f586e138623c4be766\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-beta03] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\71471f030417a7b693c36af515eec1b2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\f271aafad66ac5ac6d9669ab3fd53862\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\b230dfe1dfab62360c5d8737a0635f24\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\da0b19846fe678246444ed568519a5db\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\b6c5faa3112b2e19d7a56961fadb600a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\3e660d4869177b49f7f60a545e633369\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\a34337ccf02dab4c5d799baa42ac0cc7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\10710e9ddcbf674f0b8ac9a939eb4b37\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\6d62a73829f8eb3860770ba8a17a19ce\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\8c637f694f8e42bc9382849cc28aa63b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\fb527f6abf0da9c58f03ac1cad4680bf\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\13219d805f78cf37a03051ad9941de3b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\797d80bcfaadd2189f5a18bbaa362bac\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\36ac7cc834044154b6fb56bd17abfa91\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\c75aa4e7cdb4804c3cca974d2edf3a7e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\6b3d105daa2dfe0adbce501c56bee5c8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0-rc02] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\8fd7535f1056a2127c4a0b00146c1693\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\d7d9a16b402cbbb66000799c766ac4ca\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\da420645003c21329fb3460a5ee3b571\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\68fc6209af99df3418216be2eeb51faa\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\f9adae9eca8cabf0bdc27187f8f5af80\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\e28c7f682fe2de5b3dd91d4917bbd26c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\ca68ff1c5afb3083895b87b8debf790d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.1] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\9baabf3e29e7a6312b701324c52b0831\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\f84ba0c64287be6e0330393cb87bacee\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\3d07d80538cb6356b7b032ba2f2e5e7e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\720cd4198ed88662bd6a695e5ff1cee3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\907dc43c2151fe0058b5bb8ce24d4bd6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\97f8f311c939669397c4f59d42aaf1d8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\66b51e6cbb385bdb6690de6b3f331207\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\37c49109b6f2b9c567d012e8abe66cd6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\d8d8ef2618cc07ab77e82842bcad9cd2\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\senthil\Downloads\Task-20190824T052426Z-001\Task\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\senthil\Downloads\Task-20190824T052426Z-001\Task\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\senthil\Downloads\Task-20190824T052426Z-001\Task\app\src\main\AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from C:\Users\senthil\Downloads\Task-20190824T052426Z-001\Task\app\src\main\AndroidManifest.xml:3:11-41
+		INJECTED from C:\Users\senthil\Downloads\Task-20190824T052426Z-001\Task\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\senthil\Downloads\Task-20190824T052426Z-001\Task\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\senthil\Downloads\Task-20190824T052426Z-001\Task\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\senthil\Downloads\Task-20190824T052426Z-001\Task\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from C:\Users\senthil\Downloads\Task-20190824T052426Z-001\Task\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\senthil\Downloads\Task-20190824T052426Z-001\Task\app\src\main\AndroidManifest.xml:2:70-116
+	android:versionCode
+		INJECTED from C:\Users\senthil\Downloads\Task-20190824T052426Z-001\Task\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\senthil\Downloads\Task-20190824T052426Z-001\Task\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from C:\Users\senthil\Downloads\Task-20190824T052426Z-001\Task\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\senthil\Downloads\Task-20190824T052426Z-001\Task\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\senthil\Downloads\Task-20190824T052426Z-001\Task\app\src\main\AndroidManifest.xml:5:5-80
+	android:name
+		ADDED from C:\Users\senthil\Downloads\Task-20190824T052426Z-001\Task\app\src\main\AndroidManifest.xml:5:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\senthil\Downloads\Task-20190824T052426Z-001\Task\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from C:\Users\senthil\Downloads\Task-20190824T052426Z-001\Task\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\senthil\Downloads\Task-20190824T052426Z-001\Task\app\src\main\AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from C:\Users\senthil\Downloads\Task-20190824T052426Z-001\Task\app\src\main\AndroidManifest.xml:7:22-62
+application
+ADDED from C:\Users\senthil\Downloads\Task-20190824T052426Z-001\Task\app\src\main\AndroidManifest.xml:8:5-27:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\1a9d87caedefc9f496a232ef3c8bd597\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\1a9d87caedefc9f496a232ef3c8bd597\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\faf9774278b29ba5285945cc8f3ecd0f\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\faf9774278b29ba5285945cc8f3ecd0f\AndroidManifest.xml:9:5-20
+MERGED from [androidx.room:room-runtime:2.2.0-alpha02] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\b23021b52649d6f586e138623c4be766\AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.room:room-runtime:2.2.0-alpha02] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\b23021b52649d6f586e138623c4be766\AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\f271aafad66ac5ac6d9669ab3fd53862\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\f271aafad66ac5ac6d9669ab3fd53862\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.core:core:1.1.0-rc02] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\8fd7535f1056a2127c4a0b00146c1693\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0-rc02] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\8fd7535f1056a2127c4a0b00146c1693\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\d7d9a16b402cbbb66000799c766ac4ca\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\d7d9a16b402cbbb66000799c766ac4ca\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\f84ba0c64287be6e0330393cb87bacee\AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\f84ba0c64287be6e0330393cb87bacee\AndroidManifest.xml:22:5-28:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0-rc02] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\8fd7535f1056a2127c4a0b00146c1693\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\senthil\Downloads\Task-20190824T052426Z-001\Task\app\src\main\AndroidManifest.xml:13:13-39
+	android:label
+		ADDED from C:\Users\senthil\Downloads\Task-20190824T052426Z-001\Task\app\src\main\AndroidManifest.xml:11:13-45
+	android:hardwareAccelerated
+		ADDED from C:\Users\senthil\Downloads\Task-20190824T052426Z-001\Task\app\src\main\AndroidManifest.xml:15:13-48
+	android:roundIcon
+		ADDED from C:\Users\senthil\Downloads\Task-20190824T052426Z-001\Task\app\src\main\AndroidManifest.xml:12:13-58
+	android:largeHeap
+		ADDED from C:\Users\senthil\Downloads\Task-20190824T052426Z-001\Task\app\src\main\AndroidManifest.xml:14:13-38
+	android:icon
+		ADDED from C:\Users\senthil\Downloads\Task-20190824T052426Z-001\Task\app\src\main\AndroidManifest.xml:10:13-40
+	android:allowBackup
+		ADDED from C:\Users\senthil\Downloads\Task-20190824T052426Z-001\Task\app\src\main\AndroidManifest.xml:9:13-40
+	android:theme
+		ADDED from C:\Users\senthil\Downloads\Task-20190824T052426Z-001\Task\app\src\main\AndroidManifest.xml:16:13-44
+activity#com.boominathan.task.MainActivity
+ADDED from C:\Users\senthil\Downloads\Task-20190824T052426Z-001\Task\app\src\main\AndroidManifest.xml:17:9-26:20
+	android:label
+		ADDED from C:\Users\senthil\Downloads\Task-20190824T052426Z-001\Task\app\src\main\AndroidManifest.xml:19:17-49
+	android:theme
+		ADDED from C:\Users\senthil\Downloads\Task-20190824T052426Z-001\Task\app\src\main\AndroidManifest.xml:20:17-60
+	android:name
+		ADDED from C:\Users\senthil\Downloads\Task-20190824T052426Z-001\Task\app\src\main\AndroidManifest.xml:18:17-45
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\senthil\Downloads\Task-20190824T052426Z-001\Task\app\src\main\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\senthil\Downloads\Task-20190824T052426Z-001\Task\app\src\main\AndroidManifest.xml:22:17-68
+	android:name
+		ADDED from C:\Users\senthil\Downloads\Task-20190824T052426Z-001\Task\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\senthil\Downloads\Task-20190824T052426Z-001\Task\app\src\main\AndroidManifest.xml:24:17-76
+	android:name
+		ADDED from C:\Users\senthil\Downloads\Task-20190824T052426Z-001\Task\app\src\main\AndroidManifest.xml:24:27-74
+uses-sdk
+INJECTED from C:\Users\senthil\Downloads\Task-20190824T052426Z-001\Task\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\senthil\Downloads\Task-20190824T052426Z-001\Task\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\senthil\Downloads\Task-20190824T052426Z-001\Task\app\src\main\AndroidManifest.xml
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\75553f808efaa9577d78f8fe8514d619\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\75553f808efaa9577d78f8fe8514d619\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\1a9d87caedefc9f496a232ef3c8bd597\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\1a9d87caedefc9f496a232ef3c8bd597\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\897b03f3f40db6168aa3497c6fba9b95\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\897b03f3f40db6168aa3497c6fba9b95\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\faf9774278b29ba5285945cc8f3ecd0f\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\faf9774278b29ba5285945cc8f3ecd0f\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\57895d8c28cb66136f02c3b25636a4c5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\57895d8c28cb66136f02c3b25636a4c5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-ktx:2.2.0-alpha02] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\68e998d7453127f899894a1d69c22893\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.2.0-alpha02] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\68e998d7453127f899894a1d69c22893\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-rxjava2:2.2.0-alpha02] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\a34920e58e041ac6ce59f4f48a619723\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-rxjava2:2.2.0-alpha02] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\a34920e58e041ac6ce59f4f48a619723\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-guava:2.2.0-alpha02] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\e664f3484fa06742404372b7647f0a0b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-guava:2.2.0-alpha02] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\e664f3484fa06742404372b7647f0a0b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.0-alpha02] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\b23021b52649d6f586e138623c4be766\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.0-alpha02] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\b23021b52649d6f586e138623c4be766\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-beta03] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\71471f030417a7b693c36af515eec1b2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-beta03] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\71471f030417a7b693c36af515eec1b2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\f271aafad66ac5ac6d9669ab3fd53862\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\f271aafad66ac5ac6d9669ab3fd53862\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\b230dfe1dfab62360c5d8737a0635f24\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\b230dfe1dfab62360c5d8737a0635f24\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\da0b19846fe678246444ed568519a5db\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\da0b19846fe678246444ed568519a5db\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\b6c5faa3112b2e19d7a56961fadb600a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\b6c5faa3112b2e19d7a56961fadb600a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\3e660d4869177b49f7f60a545e633369\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\3e660d4869177b49f7f60a545e633369\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\a34337ccf02dab4c5d799baa42ac0cc7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\a34337ccf02dab4c5d799baa42ac0cc7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\10710e9ddcbf674f0b8ac9a939eb4b37\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\10710e9ddcbf674f0b8ac9a939eb4b37\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\6d62a73829f8eb3860770ba8a17a19ce\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\6d62a73829f8eb3860770ba8a17a19ce\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\8c637f694f8e42bc9382849cc28aa63b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\8c637f694f8e42bc9382849cc28aa63b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\fb527f6abf0da9c58f03ac1cad4680bf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\fb527f6abf0da9c58f03ac1cad4680bf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\13219d805f78cf37a03051ad9941de3b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\13219d805f78cf37a03051ad9941de3b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\797d80bcfaadd2189f5a18bbaa362bac\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\797d80bcfaadd2189f5a18bbaa362bac\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\36ac7cc834044154b6fb56bd17abfa91\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\36ac7cc834044154b6fb56bd17abfa91\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\c75aa4e7cdb4804c3cca974d2edf3a7e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\c75aa4e7cdb4804c3cca974d2edf3a7e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\6b3d105daa2dfe0adbce501c56bee5c8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\6b3d105daa2dfe0adbce501c56bee5c8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-rc02] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\8fd7535f1056a2127c4a0b00146c1693\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0-rc02] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\8fd7535f1056a2127c4a0b00146c1693\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\d7d9a16b402cbbb66000799c766ac4ca\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\d7d9a16b402cbbb66000799c766ac4ca\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\da420645003c21329fb3460a5ee3b571\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\da420645003c21329fb3460a5ee3b571\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\68fc6209af99df3418216be2eeb51faa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\68fc6209af99df3418216be2eeb51faa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\f9adae9eca8cabf0bdc27187f8f5af80\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\f9adae9eca8cabf0bdc27187f8f5af80\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\e28c7f682fe2de5b3dd91d4917bbd26c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\e28c7f682fe2de5b3dd91d4917bbd26c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\ca68ff1c5afb3083895b87b8debf790d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\ca68ff1c5afb3083895b87b8debf790d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.1] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\9baabf3e29e7a6312b701324c52b0831\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.1] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\9baabf3e29e7a6312b701324c52b0831\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\f84ba0c64287be6e0330393cb87bacee\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\f84ba0c64287be6e0330393cb87bacee\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\3d07d80538cb6356b7b032ba2f2e5e7e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\3d07d80538cb6356b7b032ba2f2e5e7e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\720cd4198ed88662bd6a695e5ff1cee3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\720cd4198ed88662bd6a695e5ff1cee3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\907dc43c2151fe0058b5bb8ce24d4bd6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\907dc43c2151fe0058b5bb8ce24d4bd6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\97f8f311c939669397c4f59d42aaf1d8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\97f8f311c939669397c4f59d42aaf1d8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\66b51e6cbb385bdb6690de6b3f331207\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\66b51e6cbb385bdb6690de6b3f331207\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\37c49109b6f2b9c567d012e8abe66cd6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\37c49109b6f2b9c567d012e8abe66cd6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\d8d8ef2618cc07ab77e82842bcad9cd2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\d8d8ef2618cc07ab77e82842bcad9cd2\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\senthil\Downloads\Task-20190824T052426Z-001\Task\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\senthil\Downloads\Task-20190824T052426Z-001\Task\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\senthil\Downloads\Task-20190824T052426Z-001\Task\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\senthil\Downloads\Task-20190824T052426Z-001\Task\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\senthil\Downloads\Task-20190824T052426Z-001\Task\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\senthil\Downloads\Task-20190824T052426Z-001\Task\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\senthil\Downloads\Task-20190824T052426Z-001\Task\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\senthil\Downloads\Task-20190824T052426Z-001\Task\app\src\main\AndroidManifest.xml
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.2.0-alpha02] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\b23021b52649d6f586e138623c4be766\AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.2.0-alpha02] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\b23021b52649d6f586e138623c4be766\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.room:room-runtime:2.2.0-alpha02] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\b23021b52649d6f586e138623c4be766\AndroidManifest.xml:26:13-74
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\f84ba0c64287be6e0330393cb87bacee\AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\f84ba0c64287be6e0330393cb87bacee\AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\f84ba0c64287be6e0330393cb87bacee\AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\f84ba0c64287be6e0330393cb87bacee\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\senthil\.gradle\caches\transforms-2\files-2.1\f84ba0c64287be6e0330393cb87bacee\AndroidManifest.xml:24:13-79
