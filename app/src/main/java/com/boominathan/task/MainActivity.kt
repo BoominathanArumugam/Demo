@@ -81,40 +81,9 @@ class MainActivity : AppCompatActivity() {
         recyclerView = findViewById(R.id.recyclerview) as RecyclerView
         recyclerView.layoutManager = LinearLayoutManager(this, RecyclerView.VERTICAL, false)
 
-        if (product.size != null) {
-            product.clear()
-        }
-
-
-        val thread = Thread {
-            DatabaseInstance?.bookDao()?.getAllBooks()?.forEach()
-            {
-                Log.i("Fetch Records", "Id:  : ${it.productId}")
-                Log.i("Fetch Records", "Name:  : ${it.productName}")
-                Log.i("Fetch Records", "Image:  : ${it.productImage}")
-                Log.i("Fetch Records", "Price:  : ${it.productPrice}")
-                Log.i("Fetch Records", "Ratings:  : ${it.productRatings}")
-                Log.i("Fetch Records", "Merchant:  : ${it.productMerchant}")
-
-
-                product.add(
-                    Products(
-                        it.productId,
-                        it.productName,
-                        it.productImage,
-                        it.productPrice,
-                        it.productRatings,
-                        it.productMerchant
-                    )
-                )
-            }
-        }
-        thread.start()
-
-        var adapter = ProductAdapter(product, this@MainActivity)
-        recyclerView.adapter = adapter
-        adapter.notifyDataSetChanged()
-
+         productList()
+        
+        
 
 
             fab.setOnClickListener { view ->
@@ -184,7 +153,9 @@ class MainActivity : AppCompatActivity() {
 
                     DatabaseInstance?.bookDao()?.saveBooks(bookEntity)
 
+                productList()
 
+                mAlertDialog.dismiss()
 
                 }
 
@@ -203,7 +174,41 @@ class MainActivity : AppCompatActivity() {
         Log.e(TAG, "OnResume")
 
     }
+fun productList() {
+        if (product != null)
+            product.clear()
 
+        Log.e(TAG, "OnResume")
+
+        val thread = Thread {
+            DatabaseInstance?.bookDao()?.getAllBooks()?.forEach()
+            {
+                Log.i("Fetch Records", "Id:  : ${it.productId}")
+                Log.i("Fetch Records", "Name:  : ${it.productName}")
+                Log.i("Fetch Records", "Image:  : ${it.productImage}")
+                Log.i("Fetch Records", "Price:  : ${it.productPrice}")
+                Log.i("Fetch Records", "Ratings:  : ${it.productRatings}")
+                Log.i("Fetch Records", "Merchant:  : ${it.productMerchant}")
+
+
+                product.add(
+                    Products(
+                        it.productId,
+                        it.productName,
+                        it.productImage,
+                        it.productPrice,
+                        it.productRatings,
+                        it.productMerchant
+                    )
+                )
+            }
+        }
+        thread.start()
+
+        var adapter = ProductAdapter(product, this@MainActivity)
+        recyclerView.adapter = adapter
+        adapter.notifyDataSetChanged()
+    }
     override fun onStop() {
         super.onStop()
         Log.e(TAG, "onStop")
